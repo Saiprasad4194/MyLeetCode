@@ -15,4 +15,9 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Array
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
