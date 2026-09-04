@@ -41,6 +41,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2413-smallest-even-multiple) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
