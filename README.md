@@ -19,6 +19,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2544-alternating-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
