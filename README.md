@@ -22,6 +22,7 @@
 | [2544-alternating-digit-sum](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2544-alternating-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2652-sum-multiples) |
+| [3099-harshad-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3870-count-commas-in-range) |
