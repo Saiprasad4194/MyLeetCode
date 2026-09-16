@@ -14,6 +14,7 @@
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2427-number-of-common-factors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,4 +101,16 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
