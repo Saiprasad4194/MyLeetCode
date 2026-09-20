@@ -37,6 +37,7 @@
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [2582-pass-the-pillow](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
