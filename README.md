@@ -27,6 +27,7 @@
 | [3099-harshad-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -85,6 +86,7 @@
 | [2582-pass-the-pillow](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Greedy
 |  |
 | ------- |
