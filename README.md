@@ -25,6 +25,7 @@
 | [2652-sum-multiples](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2652-sum-multiples) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3099-harshad-number) |
+| [3280-convert-date-to-binary](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3280-convert-date-to-binary) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -38,6 +39,7 @@
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
+| [3280-convert-date-to-binary](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
