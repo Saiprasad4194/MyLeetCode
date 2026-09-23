@@ -27,6 +27,7 @@
 | [3099-harshad-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3280-convert-date-to-binary) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -56,6 +57,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -65,6 +67,7 @@
 | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,11 +100,13 @@
 |  |
 | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2427-number-of-common-factors) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
