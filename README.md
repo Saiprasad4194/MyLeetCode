@@ -26,6 +26,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3280-convert-date-to-binary) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
 |  |
