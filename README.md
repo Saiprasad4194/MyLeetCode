@@ -36,6 +36,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3908-valid-digit-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3945-digit-frequency-score](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
