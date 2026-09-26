@@ -37,6 +37,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3908-valid-digit-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3945-digit-frequency-score) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Saiprasad4194/MyLeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Saiprasad4194/MyLeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Counting
 |  |
 | ------- |
