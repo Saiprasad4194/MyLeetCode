@@ -51,6 +51,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1025-divisor-game) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2427-number-of-common-factors) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Euclidean Algorithm
 |  |
 | ------- |
