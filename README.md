@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1025-divisor-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2427-number-of-common-factors) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
