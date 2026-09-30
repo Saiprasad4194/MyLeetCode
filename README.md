@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0520-detect-capital) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
 | [3280-convert-date-to-binary](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3280-convert-date-to-binary) |
