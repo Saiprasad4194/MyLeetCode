@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0709-to-lower-case) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
@@ -144,4 +145,12 @@
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
