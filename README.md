@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0020-valid-parentheses) |
+| [0434-number-of-segments-in-a-string](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0709-to-lower-case) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
