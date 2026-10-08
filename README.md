@@ -47,6 +47,7 @@
 | [0520-detect-capital](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
 | [3280-convert-date-to-binary](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3280-convert-date-to-binary) |
@@ -151,8 +152,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
