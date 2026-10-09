@@ -47,6 +47,7 @@
 | [0520-detect-capital](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0709-to-lower-case) |
+| [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
@@ -62,6 +63,7 @@
 ## Array
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -109,6 +111,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Saiprasad4194/MyLeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Counting
@@ -158,4 +161,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
