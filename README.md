@@ -47,6 +47,7 @@
 | [0520-detect-capital](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0709-to-lower-case) |
+| [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
@@ -63,6 +64,7 @@
 ## Array
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -79,6 +81,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -117,6 +120,7 @@
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
