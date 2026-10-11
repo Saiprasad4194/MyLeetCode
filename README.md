@@ -69,6 +69,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Euclidean Algorithm
 |  |
