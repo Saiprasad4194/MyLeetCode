@@ -48,6 +48,7 @@
 | [0551-student-attendance-record-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
@@ -108,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0844-backspace-string-compare) |
 | [2582-pass-the-pillow](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -170,5 +173,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
