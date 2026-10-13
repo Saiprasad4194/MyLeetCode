@@ -52,6 +52,7 @@
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
 | [3280-convert-date-to-binary](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3498-reverse-degree-of-a-string) |
