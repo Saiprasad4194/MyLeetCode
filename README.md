@@ -66,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -176,4 +177,8 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
