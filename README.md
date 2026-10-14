@@ -187,4 +187,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
