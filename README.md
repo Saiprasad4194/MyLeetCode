@@ -70,6 +70,7 @@
 | [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -181,4 +182,9 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
