@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1025-divisor-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1360-number-of-days-between-two-dates) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0434-number-of-segments-in-a-string](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0551-student-attendance-record-i) |
