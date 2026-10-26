@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -88,6 +89,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -178,16 +180,19 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 ## Binary Search
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saiprasad4194/MyLeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
 |  |
