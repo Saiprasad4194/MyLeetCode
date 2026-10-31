@@ -68,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0120-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0819-most-common-word](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0819-most-common-word) |
@@ -98,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0120-triangle) |
 | [1025-divisor-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1025-divisor-game) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Brainteaser
