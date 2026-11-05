@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1025-divisor-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1025-divisor-game) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Saiprasad4194/MyLeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Brainteaser
@@ -132,6 +134,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0942-di-string-match](https://github.com/Saiprasad4194/MyLeetCode/tree/master/0942-di-string-match) |
 | [1927-sum-game](https://github.com/Saiprasad4194/MyLeetCode/tree/master/1927-sum-game) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Saiprasad4194/MyLeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
